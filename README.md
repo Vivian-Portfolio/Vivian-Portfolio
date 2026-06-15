@@ -25,8 +25,8 @@ When i am not working with data, i enjoy sewing, cookking, watching movies, and 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Internflare Academy Application Analysis-EDA on 313 records using Google spreadsheet and Power BI 
-- **Project B:** Building an Interactive dashbaord and presenting slides with recommendations from Internflare Application Analysis
+- **Project A:** Application Tracking Insights - EDA on 313 records using Google spreadsheet and Power BI 
+- **Project B:** Building an Interactive dashbaord and presenting slides with recommendations from Application Tracking Insights
 - **Content Creation:** Sharing weekly data and internship milestone on Linkedin
 
 ## 🌱 Currently Learning 
@@ -43,7 +43,7 @@ When i am not working with data, i enjoy sewing, cookking, watching movies, and 
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Beginner-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Intermediate-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Intermediate-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/Google_Sheets-Intermediate-34A853?style=flat&logo=google-sheets&logoColor=white" alt="Google Sheets Skill Badge">
   <img src="https://img.shields.io/badge/Python-Beginner-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
 </p>
