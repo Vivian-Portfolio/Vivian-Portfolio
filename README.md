@@ -25,7 +25,7 @@ When i am not working with data, i enjoy sewing, cookking, watching movies, and 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Application Tracking Insights - EDA on 313 records using Google spreadsheet and Power BI 
+- **Project A:** Application Tracking Insights - EDA on 313 records using Google spreadsheet
 - **Project B:** Building an Interactive dashbaord and presenting slides with recommendations from Application Tracking Insights
 - **Content Creation:** Sharing weekly data and internship milestone on Linkedin
 
