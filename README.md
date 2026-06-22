@@ -13,11 +13,11 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy turning raw data, messy datasets into clear stories and actionable insights. With hands-on experience in data cleaning, exploratory analyis, dashbaord development, and stakeholder reporting.
+I'm a data analyst passionate about helping businesses make sense of their data. I enjoy turning raw data, messy datasets into clear stories and actionable insights. With hands-on experience in data cleaning, exploratory analyis, dashboard development, and stakeholder reporting.
 
 I love the "aha!" moment when data cleaning, reveals something new and useful.
 
-When i am not working with data, i enjoy sewing, cookking, watching movies, and reading.
+When I am not working with data, I enjoy sewing, cooking, watching movies, and reading.
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
@@ -26,7 +26,7 @@ When i am not working with data, i enjoy sewing, cookking, watching movies, and 
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Application Tracking Insights - EDA on 313 records using Google spreadsheet
-- **Project B:** Building an Interactive dashbaord and presenting slides with recommendations from Application Tracking Insights
+- **Project B:** Built an Interactive dashboard and presenting slides with recommendations from Application Tracking Insights
 - **Content Creation:** Sharing weekly data and internship milestone on Linkedin
 
 ## 🌱 Currently Learning 
